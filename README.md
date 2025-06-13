@@ -85,8 +85,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quantops01&show_icons=true&theme=react&hide=contribs&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quantops01&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quantops01&show_icons=true&theme=react&hide=contribs&count_private=true" /> <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quantops01&theme=react" /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cybergenius01&show_icons=true&locale=en&layout=compact&card_width=470&theme=react" alt="Top Languages" />
 </div>
 
