@@ -69,7 +69,7 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-3178C6?style=for-the-badge&logo=selenium&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-06B6D4?style=for-the-badge&logo=tensorflow&logoColor=white)
-
+![langGraph](https://img.shields.io/badge/-LangGraph-61DAFB?style=for-the-badge&logo=langgraph&logoColor=white)
 
 ### Tools
 ![Blender](https://img.shields.io/badge/-Blender-61DAFB?style=for-the-badge&logo=blender&logoColor=black)
