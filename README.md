@@ -87,7 +87,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=quantops01&show_icons=true&theme=react&hide=contribs&count_private=true" /> <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=quantops01&theme=react" /><br />
-  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=quantops01&layout=compact&theme=react" />
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=cybergenius01&layout=compact&theme=react" />
 </div>
 
 
