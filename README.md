@@ -87,47 +87,7 @@
 <div align="center">
   <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=quantops01&show_icons=true&theme=react&hide=contribs&count_private=true" /> <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=quantops01&theme=react" /><br />
-
-  <!--Top Langs-->
-  <div style="background-color:#0d1117; padding:20px; border-radius:10px; width:470px; color:white; font-family:sans-serif;">
-  <h2 style="color:#58a6ff;">Most Used Languages</h2>
-
-  <!-- Progress Bar -->
-  <div style="background:#30363d; border-radius:5px; height:12px; overflow:hidden; margin-bottom:15px;">
-    <div style="width:18%; background:#178600; float:left; height:100%;"></div> <!-- C# / .NET -->
-    <div style="width:15%; background:#3178c6; float:left; height:100%;"></div> <!-- TypeScript -->
-    <div style="width:12%; background:#f1e05a; float:left; height:100%;"></div> <!-- JavaScript -->
-    <div style="width:10%; background:#3572A5; float:left; height:100%;"></div> <!-- Python -->
-    <div style="width:8%; background:#b07219; float:left; height:100%;"></div> <!-- C/C++ -->
-    <div style="width:7%; background:#b07219; float:left; height:100%;"></div> <!-- Java -->
-    <div style="width:6%; background:#701516; float:left; height:100%;"></div> <!-- Ruby -->
-    <div style="width:5%; background:#e34c26; float:left; height:100%;"></div> <!-- HTML -->
-    <div style="width:5%; background:#563d7c; float:left; height:100%;"></div> <!-- CSS -->
-    <div style="width:4%; background:#f34b7d; float:left; height:100%;"></div> <!-- R -->
-    <div style="width:3%; background:#c22d40; float:left; height:100%;"></div> <!-- Scala -->
-    <div style="width:3%; background:#008080; float:left; height:100%;"></div> <!-- Angular -->
-    <div style="width:2%; background:#3D6117; float:left; height:100%;"></div> <!-- LaTeX -->
-    <div style="width:2%; background:#512bd4; float:left; height:100%;"></div> <!-- .NET -->
-  </div>
-
-  <!-- Legend -->
-  <div style="display:grid; grid-template-columns:1fr 1fr; gap:6px; font-size:14px;">
-    <span>🟢 C# / .NET 18%</span>
-    <span>🔵 TypeScript 15%</span>
-    <span>🟡 JavaScript 12%</span>
-    <span>🔷 Python 10%</span>
-    <span>🟤 C/C++ 8%</span>
-    <span>☕ Java 7%</span>
-    <span>🔴 Ruby 6%</span>
-    <span>🟧 HTML5 5%</span>
-    <span>🟪 CSS3 5%</span>
-    <span>📊 R 4%</span>
-    <span>🟥 Scala 3%</span>
-    <span>🅰️ Angular 3%</span>
-    <span>📄 LaTeX 2%</span>
-    <span>⚙️ .NET 2%</span>
-  </div>
-</div>
+  ![Most Used Languages](languages.svg)
 </div>
 
 
