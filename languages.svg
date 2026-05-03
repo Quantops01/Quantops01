@@ -5,12 +5,18 @@
   <defs>
     <clipPath id="outer_rect"><rect width="495" height="230" rx="4.5"/></clipPath>
   </defs>
+  <rect width="495" height="230" fill="#20232A" rx="4.5"/>
   <g clip-path="url(#outer_rect)">
-    <rect stroke="#E4E2E2" fill="#20232A" rx="4.5" x="0.5" y="0.5" width="494" height="229"/>
+    <rect fill="#20232A" style="fill:#20232A" rx="4.5" x="0" y="0" width="495" height="230"/>
+    <rect stroke="#E4E2E2" fill="none" rx="4.5" x="0.5" y="0.5" width="494" height="229"/>
 
+    <!-- Title -->
     <text x="24" y="36" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-weight="700" font-size="16px" fill="#61DAFB" style="opacity:0;animation:fadein 0.5s linear forwards 0.1s">Most Used Languages</text>
 
+    <!-- Bar background -->
     <rect x="24" y="50" width="447" height="10" rx="5" fill="#30363d" style="opacity:0;animation:fadein 0.5s linear forwards 0.2s"/>
+
+    <!-- Bar segments -->
     <rect x="24"  y="50" width="127" height="10" rx="3" fill="#7C3AED" style="opacity:0;animation:fadein 0.5s linear forwards 0.3s"/>
     <rect x="153" y="50" width="64"  height="10" rx="3" fill="#06B6D4" style="opacity:0;animation:fadein 0.5s linear forwards 0.35s"/>
     <rect x="219" y="50" width="54"  height="10" rx="3" fill="#3B82F6" style="opacity:0;animation:fadein 0.5s linear forwards 0.4s"/>
@@ -21,34 +27,48 @@
     <rect x="420" y="50" width="19"  height="10" rx="3" fill="#10B981" style="opacity:0;animation:fadein 0.5s linear forwards 0.65s"/>
     <rect x="441" y="50" width="30"  height="10" rx="3" fill="#EF4444" style="opacity:0;animation:fadein 0.5s linear forwards 0.7s"/>
 
+    <!-- Col 1 -->
     <circle cx="36"  cy="88"  r="5" fill="#7C3AED" style="opacity:0;animation:fadein 0.5s linear forwards 0.4s"/>
     <text x="46" y="93" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-size="12px" fill="#FFFFFF" style="opacity:0;animation:fadein 0.5s linear forwards 0.4s">Python <tspan fill="#61DAFB">28.5%</tspan></text>
+
     <circle cx="36"  cy="112" r="5" fill="#06B6D4" style="opacity:0;animation:fadein 0.5s linear forwards 0.45s"/>
     <text x="46" y="117" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-size="12px" fill="#FFFFFF" style="opacity:0;animation:fadein 0.5s linear forwards 0.45s">JavaScript <tspan fill="#61DAFB">14.2%</tspan></text>
+
     <circle cx="36"  cy="136" r="5" fill="#3B82F6" style="opacity:0;animation:fadein 0.5s linear forwards 0.5s"/>
     <text x="46" y="141" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-size="12px" fill="#FFFFFF" style="opacity:0;animation:fadein 0.5s linear forwards 0.5s">TypeScript <tspan fill="#61DAFB">12.1%</tspan></text>
+
     <circle cx="36"  cy="160" r="5" fill="#F59E0B" style="opacity:0;animation:fadein 0.5s linear forwards 0.55s"/>
     <text x="46" y="165" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-size="12px" fill="#FFFFFF" style="opacity:0;animation:fadein 0.5s linear forwards 0.55s">Java <tspan fill="#61DAFB">10.8%</tspan></text>
+
     <circle cx="36"  cy="184" r="5" fill="#EC4899" style="opacity:0;animation:fadein 0.5s linear forwards 0.6s"/>
     <text x="46" y="189" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-size="12px" fill="#FFFFFF" style="opacity:0;animation:fadein 0.5s linear forwards 0.6s">C/C++ <tspan fill="#61DAFB">8.4%</tspan></text>
+
     <circle cx="36"  cy="208" r="5" fill="#F97316" style="opacity:0;animation:fadein 0.5s linear forwards 0.65s"/>
     <text x="46" y="213" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-size="12px" fill="#FFFFFF" style="opacity:0;animation:fadein 0.5s linear forwards 0.65s">HTML5 <tspan fill="#61DAFB">6.3%</tspan></text>
 
+    <!-- Col 2 -->
     <circle cx="272" cy="88"  r="5" fill="#8B5CF6" style="opacity:0;animation:fadein 0.5s linear forwards 0.7s"/>
     <text x="282" y="93" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-size="12px" fill="#FFFFFF" style="opacity:0;animation:fadein 0.5s linear forwards 0.7s">CSS3 <tspan fill="#61DAFB">5.1%</tspan></text>
+
     <circle cx="272" cy="112" r="5" fill="#10B981" style="opacity:0;animation:fadein 0.5s linear forwards 0.75s"/>
     <text x="282" y="117" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-size="12px" fill="#FFFFFF" style="opacity:0;animation:fadein 0.5s linear forwards 0.75s">C# <tspan fill="#61DAFB">4.2%</tspan></text>
+
     <circle cx="272" cy="136" r="5" fill="#EF4444" style="opacity:0;animation:fadein 0.5s linear forwards 0.8s"/>
     <text x="282" y="141" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-size="12px" fill="#FFFFFF" style="opacity:0;animation:fadein 0.5s linear forwards 0.8s">Scala <tspan fill="#61DAFB">3.1%</tspan></text>
+
     <circle cx="272" cy="160" r="5" fill="#38BDF8" style="opacity:0;animation:fadein 0.5s linear forwards 0.85s"/>
     <text x="282" y="165" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-size="12px" fill="#FFFFFF" style="opacity:0;animation:fadein 0.5s linear forwards 0.85s">R <tspan fill="#61DAFB">2.5%</tspan></text>
+
     <circle cx="272" cy="184" r="5" fill="#FB7185" style="opacity:0;animation:fadein 0.5s linear forwards 0.9s"/>
     <text x="282" y="189" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-size="12px" fill="#FFFFFF" style="opacity:0;animation:fadein 0.5s linear forwards 0.9s">Ruby <tspan fill="#61DAFB">1.8%</tspan></text>
+
     <circle cx="272" cy="208" r="5" fill="#FF6B6B" style="opacity:0;animation:fadein 0.5s linear forwards 0.95s"/>
     <text x="282" y="213" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-size="12px" fill="#FFFFFF" style="opacity:0;animation:fadein 0.5s linear forwards 0.95s">Angular <tspan fill="#61DAFB">1.3%</tspan></text>
 
+    <!-- Col 3 -->
     <circle cx="415" cy="88"  r="5" fill="#A78BFA" style="opacity:0;animation:fadein 0.5s linear forwards 1.0s"/>
     <text x="425" y="93" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-size="12px" fill="#FFFFFF" style="opacity:0;animation:fadein 0.5s linear forwards 1.0s">.NET <tspan fill="#61DAFB">0.9%</tspan></text>
+
     <circle cx="415" cy="112" r="5" fill="#34D399" style="opacity:0;animation:fadein 0.5s linear forwards 1.05s"/>
     <text x="425" y="117" font-family="&quot;Segoe UI&quot;, Ubuntu, sans-serif" font-size="12px" fill="#FFFFFF" style="opacity:0;animation:fadein 0.5s linear forwards 1.05s">LaTeX <tspan fill="#61DAFB">0.8%</tspan></text>
   </g>
