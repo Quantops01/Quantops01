@@ -87,7 +87,7 @@
 <div align="center">
   <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=quantops01&show_icons=true&theme=react&hide=contribs&count_private=true" /> <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=quantops01&theme=react" /><br />
-  <img src="https://raw.githubusercontent.com/Quantops01/Quantops01/refs/heads/main/languages.svg" />
+  ![Most Used Languages](https://github.com/Quantops01/Quantops01/blob/main/languages.png?raw=true)
 </div>
 
 
