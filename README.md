@@ -135,6 +135,7 @@
 
 <br/> -->
 
+<div align="center">
   <img src="https://raw.githubusercontent.com/Quantops01/Quantops01/refs/heads/main/languages.svg" >
 </div>
 
