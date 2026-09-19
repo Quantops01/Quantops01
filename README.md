@@ -78,8 +78,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-61DAFB?style=for-the-badge&logo=css3&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/-React-3178C6?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-06B6D4?style=for-the-badge&logo=vue.js&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-61DAFB?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-06B6D4?style=for-the-badge&logo=vuedotjs&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-61DAFB?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
@@ -101,7 +101,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-3178C6?style=for-the-badge&logo=pandas&logoColor=black)
 ![Selenium](https://img.shields.io/badge/-Selenium-06B6D4?style=for-the-badge&logo=selenium&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-3178C6?style=for-the-badge&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-3178C6?style=for-the-badge&logo=matlab&logoColor=white)
 
 ---
 
